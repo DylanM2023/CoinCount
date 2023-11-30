@@ -1,0 +1,3 @@
+Name  Coin Accuracy NumBags
+
+Dylan, 1p,  100.0%,
